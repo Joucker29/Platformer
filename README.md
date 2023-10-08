@@ -1,6 +1,12 @@
 # Platformer
 Platformer that i built with https://github.com/vTekki/
 
+About:
+- Has a level editor
+- Pretty hard prebuilt levels
+- If someone beats level 6 please tell me that would be awsome.
+
+Download:
 
 Dependencies: python, pip, pygame
 
